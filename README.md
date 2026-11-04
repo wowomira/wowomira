@@ -1,11 +1,6 @@
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wowomira/wowomira@main/banner-wowo-mira.png" alt="Wowo Mira" width="100%" />
 
-<br>
-
-*Some things arrive before their meaning does.*
-
-*Letting them remain unfinished is part of giving them a shape.*
-
-<br>
+  **A small archive of traces, side thoughts, and unfinished forms.**
 
 </div>

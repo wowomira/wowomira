@@ -1,0 +1,49 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Wowo Mira</title>
+  <desc id="desc">A warm abstract banner with the name Wowo Mira and the words traces, notes, and unfinished forms.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5EFE8"/>
+      <stop offset="0.58" stop-color="#EEE5DD"/>
+      <stop offset="1" stop-color="#E2D4C9"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="760" y1="24" x2="1110" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D28A68"/>
+      <stop offset="0.52" stop-color="#B75F46"/>
+      <stop offset="1" stop-color="#6C342D"/>
+    </linearGradient>
+    <linearGradient id="peach" x1="714" y1="26" x2="1050" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5B49A" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#EAC2B2" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#paper)"/>
+  <circle cx="1010" cy="132" r="144" fill="url(#peach)" filter="url(#soft)"/>
+  <path d="M724 272C780 134 890 64 1128 42" stroke="#1C1715" stroke-opacity="0.12" stroke-width="1.5"/>
+  <path d="M690 300C790 134 959 93 1190 112" stroke="#1C1715" stroke-opacity="0.1" stroke-width="1.5"/>
+
+  <g fill="none" stroke="url(#copper)">
+    <circle cx="1012" cy="154" r="114" stroke-width="2"/>
+    <circle cx="1012" cy="154" r="82" stroke-width="1.25" stroke-opacity="0.65"/>
+    <path d="M872 76C947 96 1017 139 1076 204C1098 228 1117 254 1132 282" stroke-width="2"/>
+  </g>
+  <circle cx="1012" cy="154" r="38" fill="#B75F46" fill-opacity="0.12"/>
+  <circle cx="1012" cy="154" r="8" fill="#B75F46"/>
+  <circle cx="872" cy="76" r="5" fill="#1C1715" fill-opacity="0.5"/>
+  <circle cx="1132" cy="282" r="4" fill="#1C1715" fill-opacity="0.4"/>
+  <circle cx="1170" cy="55" r="3" fill="#B75F46" fill-opacity="0.65"/>
+
+  <g transform="translate(72 62)">
+    <rect width="52" height="3" rx="1.5" fill="#B75F46"/>
+    <text x="0" y="64" fill="#1C1715" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.4">WOWO MIRA</text>
+    <text x="2" y="103" fill="#6D5B54" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2.7">TRACES / NOTES / UNFINISHED FORMS</text>
+    <line x1="2" y1="137" x2="510" y2="137" stroke="#1C1715" stroke-opacity="0.16"/>
+    <text x="2" y="168" fill="#76655D" font-family="Segoe UI, Arial, sans-serif" font-size="15">@wowomira</text>
+  </g>
+
+  <text x="1200" y="292" fill="#7F6E65" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end" letter-spacing="1.8">FORM / TRACE</text>
+</svg>
