@@ -2,9 +2,9 @@
 
 <br>
 
-*Every tool is an argument about what should be visible.*
+*Wowo does not need to explain itself.*
 
-*The rest is implementation, consequence, and the quiet friction of use.*
+*What remains unfinished is part of the shape.*
 
 <br>
 
