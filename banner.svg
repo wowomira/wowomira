@@ -1,0 +1,58 @@
+<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">WoWo — Network and Security Tooling</title>
+  <desc id="desc">A dark navy developer banner with a subtle network graph and the text WoWo, Network and Security Tooling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1728"/>
+      <stop offset="1" stop-color="#0B2230"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 42) rotate(126) scale(340 240)">
+      <stop stop-color="#23C7B5" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#23C7B5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="88" y1="0" x2="470" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38D9C5"/>
+      <stop offset="1" stop-color="#54A7FF"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="240" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="240" rx="20" fill="url(#glow)"/>
+  <circle cx="1060" cy="28" r="96" fill="#23C7B5" fill-opacity="0.08" filter="url(#blur)"/>
+
+  <g stroke="#66DACB" stroke-opacity="0.16" stroke-width="1.4">
+    <path d="M748 46L834 86L922 55L1018 102L1134 72L1214 126"/>
+    <path d="M834 86L790 158L922 196L1018 102L1084 176"/>
+    <path d="M922 55L968 22L1134 72L1084 176L1214 126"/>
+    <path d="M790 158L698 122L748 46"/>
+  </g>
+  <g fill="#66DACB">
+    <circle cx="748" cy="46" r="4" fill-opacity="0.7"/>
+    <circle cx="834" cy="86" r="5" fill-opacity="0.9"/>
+    <circle cx="922" cy="55" r="3.5" fill-opacity="0.65"/>
+    <circle cx="1018" cy="102" r="6" fill-opacity="0.9"/>
+    <circle cx="1134" cy="72" r="3.5" fill-opacity="0.7"/>
+    <circle cx="1214" cy="126" r="4" fill-opacity="0.55"/>
+    <circle cx="790" cy="158" r="4" fill-opacity="0.65"/>
+    <circle cx="922" cy="196" r="3.5" fill-opacity="0.55"/>
+    <circle cx="968" cy="22" r="3" fill-opacity="0.5"/>
+    <circle cx="1084" cy="176" r="4.5" fill-opacity="0.75"/>
+    <circle cx="698" cy="122" r="3" fill-opacity="0.45"/>
+  </g>
+
+  <g transform="translate(72 58)">
+    <rect width="56" height="4" rx="2" fill="url(#accent)"/>
+    <text x="0" y="49" fill="#F4F8FB" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">WoWo</text>
+    <text x="2" y="82" fill="#8FA6B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2.8">NETWORK &amp; SECURITY TOOLING</text>
+    <text x="2" y="124" fill="#C9D6E0" font-family="Segoe UI, Arial, sans-serif" font-size="15">Build useful tools. Make complex systems easier to operate.</text>
+  </g>
+
+  <g transform="translate(1040 198)">
+    <circle cx="0" cy="-5" r="4" fill="#38D9C5"/>
+    <text x="14" y="0" fill="#8FA6B8" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="0.8">github.com/wowowowow659</text>
+  </g>
+</svg>
