@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-preview.png" alt="WoWo — Network and Security Tooling" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/wowowowow659/wowowowow659@main/banner-preview.png" alt="WoWo — Network and Security Tooling" width="100%" />
 
   **Network operations · Security tooling · Practical software**
 
