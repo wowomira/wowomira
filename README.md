@@ -2,9 +2,9 @@
 
 <br>
 
-*Wowo does not need to explain itself.*
+*Some things arrive before their meaning does.*
 
-*What remains unfinished is part of the shape.*
+*Letting them remain unfinished is part of giving them a shape.*
 
 <br>
 
